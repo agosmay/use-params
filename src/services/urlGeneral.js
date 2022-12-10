@@ -1,0 +1,1 @@
+export const urlGeneral = `https://jsonplaceholder.typicode.com/posts`
