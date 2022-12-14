@@ -22,6 +22,7 @@ const Card  = () => {
 			<h1>{posteos.id}</h1>
 			<h1>{posteos.title}</h1>
 			<h1>{posteos.body}</h1>
+			<h1>The user who posted was user number: {posteos.userId}</h1>
 			<Link to="/show">Volver a show</Link>
 		</>
 	
